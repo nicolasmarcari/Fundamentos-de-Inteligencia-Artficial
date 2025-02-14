@@ -1,0 +1,19 @@
+A maioria das I.As são escritas em Python, raramente é usado R ou PROLOG.
+
+O aprendizado de máquina é usadao em diversos setores, como analise de uma quantidade gigantesca de dados, segurança, prevenção de fraude, etc...
+
+É possivel usar o aprendizado de máquina para acelerar equações matemáticas que são consideradas complexas
+
+Machine Learning é muito utilizado também na astrofisica.
+
+Cada vez mais que a quantidade de dados aumenta, mais a inteligencia artificial será usada para processa-los e interpreta-los
+
+Inteligenciar artificial é o campo mais abrangente, antes disso temos Machine Learning, redes neurais e Deep Learning.
+cada um dessas vertentes tem ainda mais caracteristicas
+
+> = sub campos
+Inteligencia Artificial > Machine Learning > Redes Neurais > Deep Learning
+
+extensor = base de bibliotecas famosas de python como pytorch e tensorflow
+
+Rede neural convolucional = é a base para termos IAs que usam linguagem natural
