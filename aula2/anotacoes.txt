@@ -1,0 +1,35 @@
+Deep Learn = modelo / rede neural de varias camadas
+
+Backpropagation = permite com que uma rede neural tenha multiplas camadas, o que deu um renasicmento na IA conexionista
+
+Redes convulucionais é ótima na geração de imagens, é muito usada
+Transformers é nova, o ChatGPT e outras são todas baseadas nas redes Transformers
+Inteligencias Artificiais Generativas tem o problema da alucinação, quando ela gera um dado que simplesmente não existe ou não é verdade
+
+Teste de Turing:
+    1 - Um humano (A) = Atua como um dos "respondedores"
+    2 - Uma máquina (B) = O sistema de IA sendo testado
+    3 - Um interrogador humano (C) = faz perguntas para determinar qual dos dois é humano
+    O interrogador se comunica com A e B apenas por texte (via terminal por exemplo), eliminan pistas como voz e aparência;
+    O objetivo da máquina é enganar o interrogador, fazendo-o acreditar que ela é o humano
+    Se o interrogador não consegue dintinguir consistentemente a máquina do humano após um período de intereção, a máquina "passa" no Teste
+    (Esse teste foi criado antes de termos IAs conexionistas)
+
+ELIZA(1966) foi o primeiro "chatbot" que existiu, em que o usuario escrevia no terminal e ele te respondia
+EUGENE GOOSTMAN (2014) chatbot que conseguiu convencer 33% dos juizes de que era um adolescente ucraniano de 13 anos
+
+f(w ^t y)
+essa função esta dizendo que o vetor W deve ser transformado em uma linha, pois para multiplicar vetor tem q ter um em linha
+e um em coluna.
+
+criterio do percpetron = fazer uma redução de erro
+a função do perceptron é procurar a melhor função que minimiza o erro
+O processo de minimização de erro se chama = descida do gradiente
+a descida de gradiente é o processo de minimização de erro que o perceptron faz.
+descida do gradiente é o ponto mais baixo de uma função
+
+nunca a rede neural chega a 1 (100%), o ideal é tentar iterar até que ela fique o mais proximo de 100%
+
+vc nunca usa a quantidade de dados total para treinar uma rede neural, vc sempre usa somente uma parte. Uma parte desses dados vc usa para treinar e outra para fazer teste
+
+O Perceptron sempre trabalha com dois grupos pois ele é binario, 0 e 1, faz a classificação linear
